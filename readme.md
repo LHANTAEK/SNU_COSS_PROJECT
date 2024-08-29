@@ -1,4 +1,4 @@
-# 대학 강의 Q&A Generator AI Agent
+# "LangGraph를 활용한 대학 강의 Q&A 생성 AI 에이전트"
 
 ## 📚 프로젝트 소개
 
