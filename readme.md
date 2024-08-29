@@ -1,4 +1,4 @@
-# 대학 강의 Q&A 생성기
+# 대학 강의 Q&A Generator AI Agent
 
 ## 📚 프로젝트 소개
 
