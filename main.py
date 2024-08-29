@@ -5,7 +5,6 @@ from openai import OpenAI
 from langgraph.graph import StateGraph, END
 from langchain_core.runnables import RunnableConfig
 import pandas as pd
-import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from konlpy.tag import Okt
