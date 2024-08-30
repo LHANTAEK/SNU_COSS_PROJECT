@@ -125,7 +125,7 @@
 
 1. 저장소를 클론합니다.
 2. 필요한 패키지는 설치합니다.
-3. `Embedding.py`를 실행시키고 `processed_df.pkl`, `embeddings.pkl` 파일이 같은 폴더에 있는지 확인합니다.
+3. `embedding.py`를 실행한 후에 `processed_df.pkl`, `embeddings.pkl` 파일이 같은 폴더에 있는지 확인합니다.
 4. `.env` 파일을 생성하고 API 키를 설정합니다.
 5. `main.py` 실행
 6. `course_qa_results.csv` 파일이 생성되며 실행이 종료됩니다.

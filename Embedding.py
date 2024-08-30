@@ -40,4 +40,4 @@ with open('embeddings.pkl', 'wb') as f:
     pickle.dump(embeddings, f)
 
 
-print("모든 데이터가 성공적으로 저장되었습니다.")
+print("모든 데이터가 성공적으로 저장되었습니다")
