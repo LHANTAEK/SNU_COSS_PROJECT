@@ -38,7 +38,7 @@ class GraphState(TypedDict):
     dataframe: pd.DataFrame
 
 
-# 랜덤한 수의 행을 선택하는 함수
+# 무작위로 행을 선택하는 함수
 def select_diverse_context():
     # 다양한 질문을 생성하기 위해서 1~3개의 랜덤한 수의 행을 선택
     # 1개의 경우 나올 수 있는 질문이 제한적일 수 있으므로 2~3개의 행도 랜덤하게 선택
