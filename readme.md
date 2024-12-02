@@ -43,17 +43,6 @@
 - 관련있는 답변이면 데이터프레임에 추가
 - 1000개의 QnA 쌍이 만들어지면 결과를 CSV 파일로 저장
 
----
-
-## 🛠 기술 스택
-
-- **Python**: 주 프로그래밍 언어
-- **Pandas**: 데이터 처리 및 분석
-- **KoNLPy (Okt)**: 한국어 자연어 처리
-- **SentenceTransformer**: 텍스트 임베딩
-- **OpenAI API (chatgpt-4o-mini)**: 질문 및 답변 생성
-- **Upstage API (Groundedness Check)**: Groundedness 체크
-- **LangGraph**: 그래프 생성 및 조건부 노드 생성
 
 ---
 
