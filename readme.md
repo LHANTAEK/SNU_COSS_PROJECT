@@ -22,11 +22,11 @@
 2. **답변 생성 (answer_question)**:
    - 생성된 질문에 대해 주어진 컨텍스트를 바탕으로 답변을 생성합니다.
 
-3. **Groundedness 체크 (check_groundedness)**:
+3. **Groundedness Check (check_groundedness)**:
    - Upstage API를 사용하여 생성된 답변의 관련성을 검증합니다.
    - 관련성이 없을시 1번으로 가서 질문을 다시 생성합니다.
 
-4. **데이터프레임 업데이트 (update_dataframe)**:
+4. **데이터프레임 Update (update_dataframe)**:
    - 관련성이 있다고 판단된 Q&A 쌍을 데이터프레임에 추가합니다.
 
 5. **반복 또는 종료 결정 (should_continue)**:
